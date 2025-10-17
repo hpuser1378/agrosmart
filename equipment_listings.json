@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "lender": "test",
+        "type": "Tractor",
+        "model_year": 2019,
+        "price_per_day": 750,
+        "location": "Maharashtra",
+        "contact": "64646543551",
+        "date_listed": "2025-10-17"
+    }
+]

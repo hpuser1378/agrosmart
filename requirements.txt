@@ -1,0 +1,5 @@
+streamlit
+pandas
+numpy
+scikit-learn  # You'll need this if you train a model
+pickle-mixin  # If needed, though standard pickle often works without it
